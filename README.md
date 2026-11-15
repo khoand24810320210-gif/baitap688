@@ -5,7 +5,7 @@ BÁO CÁO BÀI TẬP / ĐỒ ÁN
 - **Mã số sinh viên:** 24810320210
 - **Lớp:** d19qtanm1
 - **Tên môn học:** Lập trình 
-- **Tên bài tập:** baitap6.6
+- **Tên bài tập:** baitap6.8
 
 ---
 
